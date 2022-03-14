@@ -10,6 +10,6 @@ A summary about me:
 - 🤔 I’m looking for help with understand databases and compliers better.
 - 💬 Ask me about Go, Node.js, Rust, Databases.
 - 📫 How to reach me: https://twitter.com/iAziz786
-- 😄 Pronouns: Azeez
+- 😄 Pronouns: He/his/him
 - ⚡ Fun fact: I write bugs 🐛
 
